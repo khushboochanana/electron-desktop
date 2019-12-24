@@ -1,4 +1,4 @@
-# tram-desktop
+# e;ectron-desktop
 
  cd app
  
