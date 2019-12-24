@@ -1,4 +1,4 @@
-# e;ectron-desktop
+# electron-desktop
 
  cd app
  
